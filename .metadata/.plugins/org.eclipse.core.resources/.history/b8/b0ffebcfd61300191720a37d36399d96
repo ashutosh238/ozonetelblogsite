@@ -1,0 +1,5 @@
+package com.Ozonetel.BlogSite.RestController;
+
+public class BlogRestController {
+
+}

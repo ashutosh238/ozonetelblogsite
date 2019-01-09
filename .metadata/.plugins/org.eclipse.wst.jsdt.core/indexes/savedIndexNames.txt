@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\Ashutosh\eclipse-workspace-ozonetel\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1818000905.index
+1263514284.index
+649658166.index
+2040762470.index
+1178326176.index
+3822454102.index
+2076353384.index

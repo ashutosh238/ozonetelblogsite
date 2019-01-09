@@ -1,0 +1,7 @@
+package com.Ozonetel.BlogSite.DAO.impl;
+
+import com.Ozonetel.BlogSite.DAO.UserDAO;
+
+public class UserDAOImpl implements UserDAO {
+
+}

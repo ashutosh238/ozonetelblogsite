@@ -1,0 +1,19 @@
+myApp.controller("c_blogController", function($scope, $http, $rootScope, $location,$route)
+{
+	$scope.blog = {'blogname':'', 'blogcontent':'', 'createdate':'', 'loginname':'', 'status':'', 'likes':0, 'dislikes':0, 'blogId':0}
+	
+	$scope.addBlog = function()
+	{
+		console.log("This is add Blog Function");		
+		$http.post('http://localhost:8081/OzonetelBlogSiteFrontEnd/addBlog', $scope.blog)
+		.then(function(response)
+				{
+					alert('Addded Successfully');
+					console.log(response.statusText);
+					$location.path("/myBlog");					
+				});
+	}
+	
+	
+
+});

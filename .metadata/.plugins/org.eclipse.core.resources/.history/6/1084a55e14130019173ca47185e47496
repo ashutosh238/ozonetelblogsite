@@ -1,0 +1,53 @@
+package com.Ozonetel.BlogSite;
+
+import static org.junit.Assert.assertTrue;
+
+import org.junit.BeforeClass;
+import org.junit.Ignore;
+import org.junit.Test;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+import com.Ozonetel.BlogSite.DAO.UserDAO;
+import com.Ozonetel.BlogSite.Doman.User;
+
+public class UserDAOTestCase {
+	private static AnnotationConfigApplicationContext context;
+	private static UserDAO userDAO;
+	@BeforeClass
+	public static void init()
+	{
+		context= new AnnotationConfigApplicationContext();
+		context.scan("com.Ozonetel");
+		context.refresh();
+		
+		userDAO = (UserDAO) context.getBean("userDAO");
+		
+		
+		
+	}
+	
+	@Ignore
+	@Test
+	public void registerUserTestCase()
+	{
+		User User=new User();
+		User.setLoginname("Sunita");
+		User.setAddress("noida sector 48");
+		User.setEmailId("sunita@gmail.com");
+		User.setPassword("sunita@123");
+		User.setUsername("Sunita Sharma");
+		User.setMobile(735109876);
+		User.setRoles("ROLE_USER");
+		assertTrue("problem",userDAO.registerUser(User));
+	}
+	
+	@Test
+	public void UpdateUserDetailTest()
+	{
+		User user=userDAO.getUser("ashu30");
+		user.setMobile(90123400);
+		assertTrue("Problem in Updateing:",userDAO.updateUser(user));
+	}
+
+	
+}

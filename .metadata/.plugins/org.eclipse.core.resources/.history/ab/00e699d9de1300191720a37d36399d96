@@ -1,0 +1,40 @@
+package com.Ozonetel.BlogSite.DAO.impl;
+
+import java.sql.Date;
+import javax.transaction.Transactional;
+
+import org.hibernate.SessionFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Repository;
+
+import com.Ozonetel.BlogSite.DAO.BlogDAO;
+import com.Ozonetel.BlogSite.Domain.Blog;
+
+
+
+
+@Repository("blogDAO")
+@Transactional
+public class BlogDAOImpl implements BlogDAO {
+
+	@Autowired
+	private SessionFactory sessionFactory;
+	
+	public boolean save(Blog blog) {
+		 
+			
+			try {
+				 
+				blog.setCreatedate(new Date(System.currentTimeMillis()));
+				sessionFactory.getCurrentSession().save(blog);
+			} catch (Exception e) {
+				e.printStackTrace();
+				return false;
+			}
+			
+			return true;
+		
+	}
+
+	
+}

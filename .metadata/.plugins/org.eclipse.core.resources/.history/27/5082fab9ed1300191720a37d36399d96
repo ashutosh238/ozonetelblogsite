@@ -1,0 +1,15 @@
+package com.Ozonetel.BlogSite.DAO;
+
+import java.util.List;
+
+
+
+
+
+public interface BlogCommentDAO {
+	
+	public boolean addComment(Blogcomment blogcomment);
+	public boolean deleteComment(Blogcomment blogcomment);
+	public List<Blogcomment> getAllComments(int blogId);
+	
+}

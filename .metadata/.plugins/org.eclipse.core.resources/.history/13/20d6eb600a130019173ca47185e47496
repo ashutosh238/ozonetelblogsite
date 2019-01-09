@@ -1,0 +1,5 @@
+package com.Ozonetel.BlogSite.config;
+
+public class ApplicationContextConfiguration {
+
+}

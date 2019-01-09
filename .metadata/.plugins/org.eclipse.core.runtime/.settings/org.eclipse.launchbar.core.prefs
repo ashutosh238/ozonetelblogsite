@@ -1,0 +1,15 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Ozonetel.BlogSite,org.eclipse.launchbar.core.descriptorType.default\:UserDAOTestCase.registerUserTestCase,org.eclipse.launchbar.core.descriptorType.default\:UserDAOTestCase,org.eclipse.launchbar.core.descriptorType.default\:UserDAOTestCase (1),org.eclipse.launchbar.core.descriptorType.default\:BlogDAOTestCase,org.eclipse.launchbar.core.descriptorType.default\:BlogCommentTestCase,org.eclipse.launchbar.core.descriptorType.default\:Tomcat v9.0 Server at localhost
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:BlogCommentTestCase/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:BlogCommentTestCase/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:BlogDAOTestCase/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:BlogDAOTestCase/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Ozonetel.BlogSite/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Ozonetel.BlogSite/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Tomcat\ v9.0\ Server\ at\ localhost/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:UserDAOTestCase\ (1)/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:UserDAOTestCase.registerUserTestCase/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:UserDAOTestCase/activeLaunchMode=run

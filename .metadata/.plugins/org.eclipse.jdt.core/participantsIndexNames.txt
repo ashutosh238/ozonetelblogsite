@@ -1,0 +1,13 @@
+INDEX VERSION 1.130 OT2
+C:\Users\Ashutosh\eclipse-workspace-ozonetel\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3302650146.index
+\Middelware\src\main\resources
+C:\Users\Ashutosh\eclipse-workspace-ozonetel\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1430356847.index
+\Ozonetel.BlogSite.Middelware\src\main\resources
+C:\Users\Ashutosh\eclipse-workspace-ozonetel\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1506220967.index
+\SocialHubMiddelware\src\main\java
+C:\Users\Ashutosh\eclipse-workspace-ozonetel\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2043281728.index
+\OzonetelBlogSiteMiddelware\src\main\java
+C:\Users\Ashutosh\eclipse-workspace-ozonetel\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1926250902.index
+\SocialHubMiddelware\src\main\java
+C:\Users\Ashutosh\eclipse-workspace-ozonetel\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\634556340.index
+\OzonetelBlogSiteFrontEnd\src

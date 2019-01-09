@@ -1,0 +1,5 @@
+package com.Ozonetel.BlogSite.DAO;
+
+public class UserDAO {
+
+}

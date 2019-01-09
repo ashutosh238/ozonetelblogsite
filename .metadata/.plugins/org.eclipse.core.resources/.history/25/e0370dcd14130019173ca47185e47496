@@ -1,0 +1,64 @@
+package com.Ozonetel.BlogSite.DAO.impl;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Repository;
+import org.springframework.transaction.annotation.Transactional;
+
+import com.Ozonetel.BlogSite.DAO.UserDAO;
+import com.Ozonetel.BlogSite.Doman.User;
+
+
+	@Repository("userDAO")
+	@Transactional
+	public class UserDAOImpl implements UserDAO {
+
+		
+		@Autowired
+		private SessionFactory sessionFactory;
+		
+		public boolean registerUser(User user) {
+			
+			
+			try {
+				sessionFactory.getCurrentSession().saveOrUpdate(user);
+			} catch (Exception e) {
+				
+				e.printStackTrace();
+				return false;
+			}
+			
+			return true;
+		}
+
+		public boolean updateUser(User user) {
+			
+			try {
+				 	sessionFactory.getCurrentSession().update(user);
+			} 
+			catch (Exception e) {
+				
+				e.printStackTrace();
+				return false;
+			}
+			
+			return true;
+		}
+
+		public User getUser(String loginname) {
+			Session session=sessionFactory.openSession();
+			User user=(User)session.get(User.class,loginname);
+			session.close();
+			return user;
+
+		}
+		
+		
+
+		
+
+	}
+
+
+	

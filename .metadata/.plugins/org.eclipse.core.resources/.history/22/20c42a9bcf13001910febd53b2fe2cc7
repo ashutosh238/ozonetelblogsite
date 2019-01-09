@@ -1,0 +1,5 @@
+package com.Ozonetel.BlogSite.Domain;
+
+public class Blog {
+
+}

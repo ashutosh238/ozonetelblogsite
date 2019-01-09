@@ -1,0 +1,5 @@
+package com.Ozonetel.BlogSite.DAO.impl;
+
+public class BlogCommentDAOImpl {
+
+}

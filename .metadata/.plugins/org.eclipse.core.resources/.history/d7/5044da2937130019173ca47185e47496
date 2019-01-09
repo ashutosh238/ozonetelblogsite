@@ -1,0 +1,193 @@
+<div id="slider">
+		<div class="container">
+			<div class="row header">
+				<div class="col-md-12">
+				<h3>Ozonetel Systems</h3>
+				<br>
+				<br><br><br>
+				<br><br>
+					<div>
+						Leading provider of cloud communication services providing contact center solutions, IVR solutions and Missed call services
+					</div>
+					
+				</div>
+			</div>
+			<div id="info">
+				<div class="row stats">
+					<div class="col-sm-2">
+						<strong>1000+</strong><br/>
+						customers
+					</div>
+					<div class="col-sm-2">
+						<strong>4000+</strong><br/>
+						developers on KooKoo
+					</div>
+					<div class="col-sm-2">
+						<strong>2 Billion</strong><br/>
+						Calls
+					</div>
+					<div class="col-sm-2">
+						<strong>226</strong><br/>
+						Telecom Operator Connections
+					</div>
+					<div class="col-sm-2">
+						<strong>4 billion</strong>
+						 Total Addressable Connections
+					</div>					
+					<div class="col-sm-2">						
+						<strong>150+</strong>						 
+						<br/>Countries covered</div>					
+				</div>
+			</div>
+
+	<div id="info">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6">
+					<h1>Company</h1>
+				</div>
+				<div class="col-md-6">
+					<h2>Vision/Mission</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-6">					
+					<p>
+						Ozonetel Systems is a pioneer and a leading provider of on-demand cloud communication services in India.
+						In today's scenario, businesses tend to lose out on tapping the opportunities that come knocking their 
+						way unintentionally (Most common being missing an In-bound enquiry/lead), 
+						either due to lack of time or manpower or due to the inherent inefficiency of the current 
+						communication set up.This means a loss of business. 
+					</p>
+					<p>
+						Being a pioneer in the field of Cloud Communication in India, 
+						we at Ozonetel worked towards converting these challenges into business opportunities, 
+						using our very own innovative cloud based communication solutions. 
+						We empower businesses with capabilities that could transform businesses radically. 
+						By deploying our products you can now invest your valuable time in running your business rather 
+						than managing your business communication modes.
+					</p>
+				</div>
+				<div class="col-md-6">
+					<!--<p>Vision</p>-->
+					<p>
+						"Make complete business communication seamless,
+ intelligent, cost efficient and easily available.
+"
+					</p>
+					<!--<p>Mission</p>-->
+					<p>"To provide scalable multi-channel
+						communication platform on cloud to
+						enterprises & 
+						entrepreneurs on OPEX/
+						transaction model and enable
+						them to provide value
+						added communication services to their 
+						customers"
+					</p>
+					<!--<a href="aboutus.html#" class="join-team button button-small">Join our team</a>-->
+				</div>
+			</div>
+			
+			<div id="info">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6">
+					<h1>Team</h1>
+				</div>
+				<div class="col-md-6">
+					<h2>Murthy Chintalapati</h2>
+				</div>
+			</div>
+			
+		
+			<div class="col-md-6 team-row">
+					<div class="col-md-6">
+						<h2>Team</h2>
+					</div>
+					<div class="col-md-6">
+						<p><h4 class="text-primary">Murthy Chintalapati</h4>
+						<h5 class="text-primary">Founder & CEO</h5>
+						Murthy Chintalapati, a serial technology entrepreneur started his first venture Intoto in 1997 at 
+						SanJose, California. Intoto developed security technologies that were licensed to OEMs like Nortel, Motorola etc.
+						Intoto was acquired by Freescale Semiconductor in 2008 and Murthy moved on to establish Ozonetel. 
+						A Masters in electrical engineering from IIT, Delhi (1985), Murthy had successful stints with ECIL Hyderabad, 
+						AT& T (US), and NEC, before venturing to become an entrepreneur.
+					</div></p>
+					
+						<h4 class="text-primary">Atul Sharma</h4>
+						<h5 class="text-primary">Co Founder & CTO</h5>
+					<p>	Atul, a product architect, is the catalyst behind the KooKoo Enterprise platform. 
+						He comes with 14+ years of experience in building solutions in enterprise telecom space. 
+						His stints in the US with Avaya, AT&T and Tellme meant immense exposure to and vast experience 
+						in handling Lucent, Avaya, CISCO, Nortel & other Telecom products. 
+						Atul brings his deep domain knowledge of self service applications & Customer Interaction Management 
+						space to bear on the solutions and services that Ozonetel delivers
+					</p>
+					<div class="col-md-6">
+						<h4 class="text-primary">Chaitanya Chokkareddy</h4>
+						<h5 class="text-primary">CIO (Chief innovation officer)</h5>
+						A true techno geek, Chaitanya can cook up new frameworks in a jiffy. 
+						He has worked on various technologies with telecom being his new passion. 
+						Within telecom, he is focused on leveraging Internet to deliver telecom solutions. 
+						A Masters graduate from the University of Florida in the US, Chaitanya brings years of diverse experience to 
+						his role at Ozonetel. 
+						He is on constant look out for new ways to innovate.
+					</div>
+					<div class="col-md-6">
+						<h4 class="text-primary">Rajiv Bharathan</h4>
+						<h5 class="text-primary">Sr. Vice President Sales</h5>
+						Rajiv leads the effort of building Ozonetel's robust sales organization. 
+						Rajiv carries rich experience of 30+ years in the IT & Telecom industry encompassing Direct Sales, 
+						Channel Sales & Enterprise sales. He has a successful track record of working with organizations 
+						like HCL, Wipro & Reliance Communications. Prior to joining Ozonetel Rajiv was Executive 
+						Sr. Vice President & Head Vertical markets at Reliance Communications.
+					</div>
+					<div class="col-md-6">
+						<h4 class="text-primary">Anurag Banerjee</h4>
+						<h5 class="text-primary">CGO (Chief Growth Officer)</h5>
+						Anurag Banerjee serves as the Growth guy at Ozonetel. His past includes scaling multiple startups to double digit millions in revenue and raising more than $30MM in venture capital.<br/>This came after a decade at American Express in New York, in various global leadership positions across the business, mostly running customer loyalty and big data businesses.  Supported by high performing teams,  Anurag's businesses contributed more than 20BB in top line growth.
+					</div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+
+	
+	<div id="info">
+		<div class="container">
+			<div class="row">
+					<div class="col-md-12">
+						<h1>Why Us</h1>
+					</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12">
+						<ul>
+							<li>Experience in managing customer communications at scale</li>
+							<li>Handling 10 million calls everyday</li>
+							<li>Zero hardware installation and absolute mobility</li>
+							<li>Zero setup cost</li>
+							<li>Reduced Operational Cost</li>
+							<li>Maximum uptime with multi-location call routing</li>
+							<li>Dynamic Capacity Planning</li> 
+							<li>Facilitates distributed regional operation</li>
+							<li>Call treatment in regional languages with regional context</li>
+						</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div id="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-3 copyright">
+					Ozonetel Systems Pvt Ltd 2014
+				</div>
+				
+				</div>
+			</div>
+		</div>
+	</div>
